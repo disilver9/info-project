@@ -1,0 +1,56 @@
+ .first {
+							background-color:lightgrey;
+							border: hidden;
+							margin:auto;
+							width:1000px;
+						}
+				.second {
+							border: 3px solid #73AD21;
+							position:relative;
+							border: hidden;
+						}
+				.third {
+							  margin-left:40px;
+							  margin-top:30px;
+							  
+							 
+						}
+					h1  {
+							border-bottom: 3px solid red;
+						}
+					img {
+							border:6px solid red;
+							height: 300px;
+							position: absolute;
+							top: 10px;
+							right: 90px;
+							-webkit-transform:rotate(355deg);
+							-moz-transform:rotate(355deg);
+							-o-transform:rotate(355deg);
+							-ms-transform:rotate(355deg);
+							
+							
+						}
+				
+					.floating-box {
+									float: left;
+									text-align:right;
+									color:red;
+									width: 150px;
+									height: 100px;
+									margin: 10px;
+									border: hidden;
+									font:italic;
+								}
+					.floating-box-ex {
+									background-color:lightgrey;
+									float: left;
+									padding-left:10px;
+									width: 700px;
+									height: 100px;
+									margin: 10px;
+									border-left: 4px solid red;
+								}
+					li{font-size:10;}
+				
+				#p{width:500px; color:grey;}
